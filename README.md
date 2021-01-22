@@ -14,7 +14,7 @@ my_program.cpp
 ```
 
 ## Installing fast-cpp-c-script
-You need Python 3.6 and newer.
+You need GCC and Python(3.6 and newer).
 
 Instaling via bash:
 ```shell

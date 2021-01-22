@@ -5,10 +5,12 @@ def main(file_run):
     os.chdir('..')
 
     if not os.access(file_run, os.F_OK):
-        return f'File not exists in {os.getcwd()}'
+        print(f'File not exists in {os.getcwd()}')
+        return
+    print(f'Run {file_run}!')
     os.system(f'g++ {file_run} -o mic')
     os.system('mic.exe')
-    return f'\nRan {file_run}!'
+    return
 
 
-print(main(input()))
+main(input())
