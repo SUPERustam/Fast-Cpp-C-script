@@ -8,7 +8,7 @@ def main(file_run):
         return 'File not exists'
     os.system(f'g++ {file_run} -o mic')
     os.system('mic.exe')
-    return '\nComplete successfully!'
+    return f'\nRun {file_run}!'
 
 
 print(main(input()))
