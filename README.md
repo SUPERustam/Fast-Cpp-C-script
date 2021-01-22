@@ -17,7 +17,7 @@ my_program.cpp
 You need Python 3.6 and newer.
 
 Instaling via bash:
-```bash
+```shell
 git clone https://github.com/SUPERustam/Fast-Cpp-C-script.git
 ```
 
