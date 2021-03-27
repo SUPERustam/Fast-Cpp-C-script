@@ -1,4 +1,4 @@
-# Fast-Cpp-C-script
+# Fast-Cpp-C-script (Haha, bash script!)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/SUPERustam/Fast-Cpp-C-script/blob/master/LICENSE)
 
 Fast run cpp&amp;c code via terminal.
